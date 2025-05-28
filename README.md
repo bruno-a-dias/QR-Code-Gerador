@@ -13,7 +13,7 @@ Este é um **gerador de QR Code** simples e elegante, construído com **HTML, CS
 ## 📋 **Instruções de Uso**
 1. **Clone o repositório:**
     ```sh
-    git clone https://github.com/seu-usuario/qr-code-generator.git
+    git clone https://github.com/bruno-a-dias/qr-code-generator.git
     ```
 2. **Navegue até o diretório do projeto:**
     ```sh
